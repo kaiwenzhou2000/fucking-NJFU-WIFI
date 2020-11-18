@@ -7,12 +7,13 @@
 ## 使用方式
 
 - 在js文件中添加自己的账号和密码（建议）
-
-  首先下载fucking NJFU WIFI 这个文件，根据注释，改变username和password的值
-
+  1. 首先安装油猴插件
+  2. 将fucking NJFU WIFI 这个文件添加到脚本库中
+  3. 根据注释，改变username和password的值
 - 使用cookie
-
-  在第一次登入的时候会提示你没有cookie，需要手动登入之后才能自动添加cookie
+  1. 首先安装油猴插件
+  2. 将fucking NJFU WIFI 这个文件添加到脚本库中
+  3. 在第一次登入的时候会提示你没有cookie，需要手动登入之后才能自动添加cookie
 
 ## 版本
 
